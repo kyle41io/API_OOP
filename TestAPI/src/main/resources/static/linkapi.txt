@@ -1,0 +1,7 @@
+https://auctions-app-2.herokuapp.com/api/
+
+//link du phong
+https://auction-app3.herokuapp.com/api/
+
+//admin-ko dung dc
+http://auction-admin-2.herokuapp.com/login
